@@ -1,7 +1,5 @@
-body{
-	font-family: 'Quicksand', sans-serif;
-}
-
 .forum-disqus{
-	border: 1px solid black;
+	/*border: 1px solid dashed;*/
+	margin: 10px;
+	padding: 5px;
 }
